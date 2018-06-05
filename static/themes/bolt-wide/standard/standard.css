@@ -1,0 +1,28 @@
+body{
+    margin:40px auto;
+    max-width:100%;
+    line-height:1.6;
+    font-size:16px;
+    color:#444;
+    padding:0 10px;
+}
+
+h1,h2,h3 {
+    line-height: 1.2;
+    font-size: 18px;
+}
+
+#bolt-body {
+    width: 60%;
+    margin: auto;
+}
+
+#bolt-header {
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+#bolt-logo {
+    width: 75px;
+}
